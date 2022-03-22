@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Guillermo
+- 👋 Hi, I’m Guillermo, Franco-Colombian
 - 👀 I’m interested in Web Development, languages and travels amongst many other things
 - 🌱 I’m currently improving my current knowledge
 - 💞️ I’m looking to collaborate on a project with you, i'm based in France but you could be located anywhere else, that's not a major problem
