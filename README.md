@@ -4,6 +4,10 @@
 - 💞️ I’m absolutely available to collaborate on a project with you, i'm based in France but you could be located anywhere else, that's not a major problem.
 - 📫 So let's get in touch ...
 
+By the way, do not hesitate to have look on that page also !! :arrow_heading_down:
+
+https://0memo.github.io/mypage/
+
 <!---
 0Memo/0Memo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
