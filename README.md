@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">Make sure to go and have look on that page also !! ⤵️<br><br>https://guillermo-web.fr/cv2D/</h3>
+<h3 align="left">Make sure to go and have look on my <a href="https://guillermo-web.fr/cv2D/">2D resume</a> !!</h3>
 
 ###
 
