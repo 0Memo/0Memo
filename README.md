@@ -1,3 +1,5 @@
+<img src="fondo.jpeg" alt"GitHub Banner" width="100%" />
+
 - 👋 Hello there, I’m Guillermo, Franco-Colombian living in France.
 - 👀 I’m interested in Web Development and App Design and Development, languages, travels, metal detection, urbex, epoxy resin and I have a collection of old and foreign coins; amongst many other things.
 - 🌱 I’m looking forward to ever further improving my computer programming knowledge.
