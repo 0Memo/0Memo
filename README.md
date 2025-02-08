@@ -4,7 +4,7 @@
 - 💞️ I’m absolutely available to collaborate on a project with you, i'm based in France but you could be located anywhere else, that's not a major problem.
 - 📫 So let's get in touch ...
 
-By the way, do not hesitate to have look on that page also !! :arrow_heading_down:
+Make sure to go and have look on that page also !! :arrow_heading_down:
 
 https://guillermo-web.fr/cv2D/
 
