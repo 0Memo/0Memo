@@ -4,6 +4,10 @@
 
 ###
 
+<img align="right" height="150" src="avatar.jpg"  />
+
+###
+
 <h3 align="left">👀 I’m interested in Web Development and App Design and Development, languages, travels, metal detection, urbex, epoxy resin and I have a collection of old and foreign coins; amongst many other things.</h3>
 
 ###
@@ -106,10 +110,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="avatar.jpg"  />
 
 ###
 
