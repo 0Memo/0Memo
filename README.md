@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👀 I’m interested in Web Development and App Design and Development, languages, travels, metal detection, urbex, epoxy resin and I have a collection of old and foreign coins; amongst many other things.</h3>
+<h3 align="left">👀 I’m interested in Web Development and App Design and Development, languages, travels, metal detection, urbex, epoxy resin and I have a collection of old and foreign coins.</h3>
 
 ###
 
