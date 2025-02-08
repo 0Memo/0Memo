@@ -1,4 +1,4 @@
-<img src="fondo.png" alt"GitHub Banner" width="100%" />
+![Preview Image](https://github.com/0Memo/0Memo/blob/main/fondo.png)
 
 # 👋 Hello there, I’m Guillermo, Franco-Colombian living in France.
 # 👀 I’m interested in Web Development and App Design and Development, languages, travels, metal detection, urbex, epoxy resin and I have a collection of old and foreign coins; amongst many other things.
