@@ -115,7 +115,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/0Memo/0Memo/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Memo/0Memo/output/snake-dark.svg" alt="Snake dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Memo/0Memo/output/snake.svg" alt="Snake light" />
+  <img src="https://raw.githubusercontent.com/0Memo/0Memo/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
 
