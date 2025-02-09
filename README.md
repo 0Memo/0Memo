@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">💞️ I’m absolutely available to collaborate on a project with you, i'm based in France but you could be located anywhere else, that's not a major problem.</h3>
+<h3 align="left">💞️ I’m available to collaborate on any project, i'm based in France but location is not a major problem.</h3>
 
 ###
 
