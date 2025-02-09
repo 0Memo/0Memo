@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="left">Socials 📊:</h1>
+<h1 align="left">My socials 📊:</h1>
 
 ###
 
