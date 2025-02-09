@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="left">My stats</h1>
+<h1 align="left">My stats 📊:</h1>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h1 align="left">My stack</h1>
+<h1 align="left">My stack 💻:</h1>
 
 ###
 
