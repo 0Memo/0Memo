@@ -20,15 +20,15 @@
 
 ###
 
-<h3 align="left">📫 So let's get in touch ...</h3>
-
-###
-
 <h3 align="left">Make sure to check my <a href="https://guillermo-web.fr/cv2D/" target="_blank">2D resume</a> & <a href="https://portfolio-omega-seven-37.vercel.app/" target="_blank">portfolio</a> !!</h3>
 
 ###
 
-<h1 align="left">My socials 📊:</h1>
+<h3 align="left">📫 Let's get in touch ☟</h3>
+
+###
+
+<h1 align="left">🌐 Socials:</h1>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h1 align="left">My stats 📊:</h1>
+<h1 align="left">📊 Stats:</h1>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h1 align="left">My stack 💻:</h1>
+<h1 align="left">💻 Tech stack:</h1>
 
 ###
 
