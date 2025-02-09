@@ -46,10 +46,10 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
