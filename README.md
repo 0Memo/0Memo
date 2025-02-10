@@ -1,6 +1,12 @@
 ![Preview Image](https://github.com/0Memo/0Memo/blob/main/fondo.png)
 
-<h1 align="left">Hello there 🌴! I’m Guillermo, Franco-Colombian living in France.</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=40&center=true&vCenter=true&color=16101B&width=500&height=70&duration=8000&lines=Hello+there!+🌴;+I'm+Guillermo;" />
+  </a>
+</h1>
+
+<h3 align="center">Franco-Colombian living in France</h3>
 
 ###
 
@@ -20,7 +26,15 @@
 
 ###
 
-<h3 align="left">Make sure to check my <a href="https://guillermo-web.fr/cv2D/" target="_blank">📄 2D resume</a> & <a href="https://portfolio-omega-seven-37.vercel.app/" target="_blank">📈 portfolio</a> !!</h3>
+<h3 align="left">
+  Make sure to check my
+  <a href="https://guillermo-web.fr/cv2D/" target="_blank">
+    <img src="https://img.shields.io/badge/📄%202D%20Resume-%2316101B?style=plastic&color=16101B" alt="📄 2D Resume" height="26">
+  </a> & 
+  <a href="https://portfolio-omega-seven-37.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/📈%20Portfolio-%2316101B?style=plastic&color=16101B" alt="📈 Portfolio" height="26">
+  </a> !!
+</h3>
 
 ###
 
@@ -108,6 +122,8 @@
 ###
 
 <br clear="both">
+
+<h1 align="left">🐍 Contributions:</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Memo/0Memo/output/github-snake-dark.svg" alt="Snake dark" />
