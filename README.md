@@ -131,6 +131,14 @@
   <img src="https://raw.githubusercontent.com/0Memo/0Memo/output/snake.svg" alt="Snake animation" />
 </picture>
 
+<hr>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=40&center=true&vCenter=true&color=16101B&width=600&height=70&duration=8000&lines=Until+I+can+hear+from+you+📨;Have+a+wonderful+day!+💫;" />
+  </a>
+</h3>
+
 ###
 
 <!---
