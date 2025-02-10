@@ -1,4 +1,4 @@
-![Preview Image](https://github.com/0Memo/0Memo/blob/main/fondo.png)
+![Preview Image](https://github.com/0Memo/0Memo/blob/main/nuevofondo.png)
 
 <h1 align="left">Hello there 🌴! I’m Guillermo, Franco-Colombian living in France.</h1>
 
