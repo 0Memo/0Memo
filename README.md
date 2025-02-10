@@ -12,19 +12,19 @@
 
 ###
 
-<h3 align="left">🌱 I’m looking forward to ever further improving my computer programming knowledge.</h3>
+<h3 align="left">🚀 I’m looking forward to ever further improving my computer programming knowledge.</h3>
 
 ###
 
-<h3 align="left">💞️ I’m available to collaborate on any project, i'm based in France but location is not a major problem.</h3>
+<h3 align="left">👷 I’m available to collaborate on any project, i'm based in France but location is not a major problem.</h3>
 
 ###
 
-<h3 align="left">Make sure to check my <a href="https://guillermo-web.fr/cv2D/" target="_blank">2D resume</a> & <a href="https://portfolio-omega-seven-37.vercel.app/" target="_blank">portfolio</a> !!</h3>
+<h3 align="left">Make sure to check my <a href="https://guillermo-web.fr/cv2D/" target="_blank">📄 2D resume</a> & <a href="https://portfolio-omega-seven-37.vercel.app/" target="_blank">📈 portfolio</a> !!</h3>
 
 ###
 
-<h3 align="left">📫 Let's get in touch ☟</h3>
+<h3 align="left">💬 Let's get in touch 💬</h3>
 
 ###
 
