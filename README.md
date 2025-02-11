@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="avatar.jpg"  />
+<img align="right" height="150" src="coding.gif"  />
 
 ###
 
