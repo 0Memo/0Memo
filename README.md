@@ -1,4 +1,4 @@
-![Preview Image](https://github.com/0Memo/0Memo/blob/main/fondo.png)
+![Preview Image](https://github.com/0Memo/0Memo/blob/main/nuevofondo.png)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
