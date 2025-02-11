@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="160" width="260" src="programmer.gif"  />
+<img align="right" height="180" width="260" src="programmer.gif"  />
 
 ###
 
