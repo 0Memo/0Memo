@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=40&center=true&vCenter=true&color=16101B&width=500&height=70&duration=8000&lines=Hello+there!+🌴;+I'm+Guillermo;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=40&center=true&vCenter=true&color=6724BA&width=500&height=70&duration=8000&lines=Hello+there!+🌴;+I'm+Guillermo;" />
   </a>
 </h1>
 
@@ -135,7 +135,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=40&center=true&vCenter=true&color=16101B&width=600&height=70&duration=8000&lines=Until+I+can+hear+from+you+📨;Have+a+wonderful+day!+💫;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=40&center=true&vCenter=true&color=6724BA&width=600&height=70&duration=8000&lines=Until+I+can+hear+from+you+📨;Have+a+wonderful+day!+💫;" />
   </a>
 </h3>
 
