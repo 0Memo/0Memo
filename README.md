@@ -9,8 +9,8 @@
 <h3 align="center">Franco-Colombian living in France</h3>
 
 ###
-<img align="left" height="150" width="210" src="wordscloud.png"  />
-<img align="right" height="150" src="coding.gif"  />
+
+<img align="right" height="160" width="260" src="programmer.gif"  />
 
 ###
 
@@ -19,6 +19,10 @@
 ###
 
 <h3 align="left">🚀 I’m looking forward to ever further improving my computer programming knowledge.</h3>
+
+###
+
+<img align="left" height="160" src="wordscloud.png"  />
 
 ###
 
