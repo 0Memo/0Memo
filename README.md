@@ -1,4 +1,4 @@
-![Preview Image](https://github.com/0Memo/0Memo/blob/main/nuevofondo.png)
+![Preview Image](https://github.com/0Memo/0Memo/blob/main/fondo1.png)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -19,10 +19,6 @@
 ###
 
 <h3 align="left">🚀 I’m looking forward to ever further improving my computer programming knowledge.</h3>
-
-###
-
-<img align="left" height="160" src="wordscloud.png"  />
 
 ###
 
