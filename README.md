@@ -29,10 +29,10 @@
 <h3 align="left">
   Make sure to check my
   <a href="https://guillermo-web.fr/cv2D/" target="_blank">
-    <img src="https://img.shields.io/badge/📄%202D%20Resume-%2316101B?style=plastic&color=16101B" alt="📄 2D Resume" height="26">
+    <img src="https://img.shields.io/badge/📄%202D%20Resume-%2316101B?style=plastic&color=16101B" alt="📄 2D Resume" height="26" target="_blank">
   </a> & 
   <a href="https://memo-roomfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/📈%20Portfolio-%2316101B?style=plastic&color=16101B" alt="📈 Portfolio" height="26">
+    <img src="https://img.shields.io/badge/📈%20Portfolio-%2316101B?style=plastic&color=16101B" alt="📈 Portfolio" height="26" target="_blank">
   </a> !!
 </h3>
 
