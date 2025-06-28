@@ -31,7 +31,7 @@
   <a href="https://guillermo-web.fr/cv2D/" target="_blank">
     <img src="https://img.shields.io/badge/📄%202D%20Resume-%2316101B?style=plastic&color=16101B" alt="📄 2D Resume" height="26">
   </a> & 
-  <a href="https://memo-roomfolio.vercel.app/" target="_blank">
+  <a href="https://memosportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/📈%20Portfolio-%2316101B?style=plastic&color=16101B" alt="📈 Portfolio" height="26">
   </a> !!
 </h3>
